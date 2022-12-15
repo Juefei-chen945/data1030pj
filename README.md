@@ -1,0 +1,3 @@
+This project focus on YouTube trending videos and is aim to use machine learning methods to explore what features of them attract viewers' attention. The datasets used for this project are YouTube Trending Video Dataset (updated daily) (U.S. part) and YouTube channels 100,000 dataset, all of which can be found in Kaggle. I count the number of days for each video and use this value as the target variable, which is continuous and this project is a regression problem.
+
+I use Python version 3.10.5, numpy version 1.22.4, matplotlib version 3.5.2, sklearn version 1.1.1, pandas version 1.4.2, xgboost version 1.5.1 and shap version 0.40.0. The environment file can be found in the src folder.
