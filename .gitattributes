@@ -1,0 +1,15 @@
+data filter=lfs diff=lfs merge=lfs -text
+figures filter=lfs diff=lfs merge=lfs -text
+report filter=lfs diff=lfs merge=lfs -text
+results filter=lfs diff=lfs merge=lfs -text
+src filter=lfs diff=lfs merge=lfs -text
+data/US_youtube_trending_data.csv filter=lfs diff=lfs merge=lfs -text
+data/channels.csv filter=lfs diff=lfs merge=lfs -text
+results/KNR.save filter=lfs diff=lfs merge=lfs -text
+results/lasso.save filter=lfs diff=lfs merge=lfs -text
+results/RF.save filter=lfs diff=lfs merge=lfs -text
+results/ridge.save filter=lfs diff=lfs merge=lfs -text
+results/XGB.save filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+resultslasso.save filter=lfs diff=lfs merge=lfs -text
